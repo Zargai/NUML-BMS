@@ -1,0 +1,57 @@
+
+.admin_login{
+    background-color: rgba(0, 0, 0, 0.8);
+    text-align: center;
+    height: 70vh;
+    color: rgba(0, 128, 0, 0.774);
+}
+.student_login{
+    background-color: rgba(0, 0, 0, 0.8);
+    text-align: center;
+    height: 69.5vh;
+    color: rgba(0, 128, 0, 0.774);
+    padding-top: 30px;
+}
+.admin_Login_title{
+    
+    padding: 10px 0px;
+    padding-bottom: 20px;
+    margin:20px 0px;
+    font-size: 40px;
+    margin-bottom: 0px;
+    font-weight: bolder;
+    text-shadow: white 1px 0px;
+    color: rgba(4, 114, 4, 0.774);
+}
+.student_registration{
+    background-color: rgba(0, 0, 0, 0.8);
+    text-align: center;
+    color: rgba(0, 128, 0, 0.774);
+    padding-top: 10px;
+    padding-bottom: 30px;
+  
+}
+.student_portal{
+    background-color: rgba(0, 0, 0, 0.9);
+    padding-bottom:50px;
+    align-content: center;
+    text-align: center; 
+    padding-top: 20px;  
+    margin-top: 40px;
+    
+    
+}
+.student_login_form{
+
+width: 450px;
+margin:0px auto;
+height: 40vh;
+}
+.info_center{
+    background-color: rgba(0, 0, 0, 0.9);
+    padding-bottom:50px;
+    align-content: center;
+    text-align: center; 
+    padding-top: 20px;  
+    margin-top: 40px;
+}
